@@ -1,4 +1,8 @@
 # TRITPO_PROJECT
 Мобильное приложение для ведения личного дневника.
 
-На данный момент вы можете ознакомиться с Mockup и SRS.
+
+# Contents of Repository
+
+## [1 Documentation]()
+## [1.1 SRS]()
