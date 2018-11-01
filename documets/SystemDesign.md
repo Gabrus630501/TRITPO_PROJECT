@@ -10,8 +10,10 @@
     1.2.5. [Изменение цветовой гаммы](#1.2.5) <br>
     1.2.6. [Изменение требуемой валюты](#1.2.6) <br>
  2. [Activity Diagram](#2) <br>
- 3. [States Diagram](#3) <br>
+ 3. [State Diagram](#3) <br>
  4. [Sequence Diagram](#4) <br>
+ 5. [Class Diagram](#5) <br>
+ 6. [Deployment Diagram](#6) <br>
 
 # 1. Use Case Diagram <a name = "1"></a>
 
@@ -91,9 +93,20 @@ Activity diagram is [here](https://github.com/kirillstasiuk/TRITPO_PROJECT/blob/
 
 # 3. States Diagram <a name = "3"></a>
 
-States diagram is [here](https://github.com/kirillstasiuk/TRITPO_PROJECT/blob/master/documets/diagrams/States.png).
+State diagram is [here](https://github.com/kirillstasiuk/TRITPO_PROJECT/blob/master/documets/diagrams/StateDiagram.png).
 
 
 # 4. Sequence Diagram <a name = "4"></a>
 
 Sequence diagram is [here](https://github.com/kirillstasiuk/TRITPO_PROJECT/blob/master/documets/diagrams/Sequence.png).
+
+
+# 5. Class Diagram <a name = "5"></a>
+
+Sequence diagram is [here](https://github.com/kirillstasiuk/TRITPO_PROJECT/blob/master/documets/diagrams/ClassDiagram.jpg).
+
+
+# 6. Deployment Diagram <a name = "6"></a>
+
+Sequence diagram is [here](https://github.com/kirillstasiuk/TRITPO_PROJECT/blob/master/documets/diagrams/DeploymentDiagram.png).
+
